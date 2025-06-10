@@ -24,3 +24,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iamrudrobala&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/iamrudrobala/iamrudrobala/blob/output/github-snake-dark.svg)
