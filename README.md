@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m a student of grade 11<br>👯 I’m passionate to contribute on tech<br>🤝 I’m looking for help with any of my project<br>🌱 I’m currently learning C++<br>💬 Ask me about anything in social/iamrudrobala<br>⚡ Fun fact I am learning everything without school<br>
+🔭 I’m a student of grade 11<br>👯 I’m passionate to contribute on tech<br>🤝 I’m looking for help with any of my project<br>🌱 I’m currently learning more about backend<br>💬 Ask me about anything in social/iamrudrobala<br>⚡ Fun fact I am learning everything without school<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A49F7&width=435&lines=I+am+Rudro+Bala;16+years+old;Problem+solve+in+C;i+like+to+write;HTML+CSS;Learning+C%2B%2B;Interested+in+machine+learning+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=F70000&width=435&lines=Hi%2C+this+is+Rudro;High+school+student+from+Bangladesh;Competitive+Programing+enthusiast;Interested+in+AI%2C+software+engineering%2C+and+problem+solving)](https://git.io/typing-svg)
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/iamrudrobala" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://x.com/iamrudrobala" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="30" width="40" /></a>
