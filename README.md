@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student of grade 11<br>👯 I’m passionate to contribute on tech<br>🤝 I’m looking for help with any of my project<br>🌱 I’m currently learning more about backend<br>💬 Ask me about anything in social/iamrudrobala<br>⚡ Fun fact I am learning everything without school<br>
+🔭 I’m a student of grade 12<br>👯 I’m passionate to contribute on tech<br>🤝 I’m looking for help with any of my project<br>🌱 I’m currently learning more about backend<br>💬 Ask me about anything in social/iamrudrobala<br>⚡ Fun fact I am learning everything without school<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=F70000&width=435&lines=Hi%2C+this+is+Rudro;High+school+student+from+Bangladesh;Competitive+Programing+enthusiast;Interested+in+AI%2C+software+engineering;Ready+to+contribute+in+any+project)](https://git.io/typing-svg)
 ## 🌐 Socials:
